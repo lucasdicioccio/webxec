@@ -44,7 +44,9 @@ webxec --portNum 9329 \
   --prefixArg=network-receive \
   --argStyle=CONCAT_ARGS \
   --payloadStyle=NO_PAYLOAD
-``
+```
+
+![video example](https://raw.githubusercontent.com/lucasdicioccio/webxec/main/videos/with-notify-send.webm.mp4)
 
 ### explanation of args
 
